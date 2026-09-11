@@ -1,6 +1,13 @@
 # RL2 PingPong Team 2026
 
-**RL2 实验室**代表上海交通大学和上海创智学院参加位于北京“冰丝带”国家速滑馆举办的第二届世界人形机器人运动会**乒乓球赛项**，该组织仓库包含在 Unitree G1 和 Agibot A3 上完成从仿真训练到实机部署的全链路实现。
+## 关于我们
+
+**RL2 实验室**代表上海交通大学和上海创智学院参加位于北京“冰丝带”国家速滑馆举办的第二届世界人形机器人运动会**乒乓球赛项**，并最终获得季军。
+
+- **团队名称**：上海交通大学/上海创智学院 RL2 战队
+- **所属单位**：上海交通大学、上海创智学院
+- **指导老师**：高岳教授
+- **核心成员**：徐恺阳、张亚洲、张亚洲、沈欣、李金珩、邵开阳、周自豪、汪耀东、夏贤贤、黄恺奕 、朱科祺、刘佳丽
 
 <div align="center">
 <img src="../images/sjtu.png" style="height:70px;" />
@@ -10,14 +17,9 @@
 <img src="../images/RL2.png" style="height:70px;" />
 </div>
 
-## 关于我们
-
-- **团队名称**：上海交通大学/上海创智学院 RL2 战队
-- **所属单位**：上海交通大学、上海创智学院
-- **指导老师**：高岳教授
-- **核心成员**：徐恺阳、张亚洲、张亚洲、沈欣、李金珩、邵开阳、周自豪、汪耀东、夏贤贤、黄恺奕 、朱科祺、刘佳丽
-
 ## 仓库地图
+
+该组织仓库包含在 Unitree G1 和 Agibot A3 上完成从仿真训练到实机部署的全链路实现。
 
 ### 仿真训练
 
@@ -60,6 +62,16 @@
 | 仓库 | 说明 |
 |---|---|
 | `smash_motionVAE` | SMASH 论文的复现 |
+
+## 比赛照片
+
+<div align="center">
+
+| <div align="center"> Backhand </div> | <div align="center">  Forehand </div> |  <div align="center"> Serve </div> |
+|--- | --- | --- |
+| <img src="../images/backhand.jpg" alt="Backhand" height="120"> | <img src="../images/forehand.jpg" alt="Forehand" height="120"> | <img src="../images/serve.jpg" alt="Serve" height="120"> |
+
+</div>
 
 ## 联系
 
