@@ -11,9 +11,9 @@
 
 <div align="center">
 <img src="../images/sjtu.png" style="height:70px;" />
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="../images/sii.png" style="height:70px;" />
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="../images/RL2.png" style="height:70px;" />
 </div>
 
@@ -69,7 +69,7 @@
 
 | <div align="center"> Backhand </div> | <div align="center">  Forehand </div> |  <div align="center"> Serve </div> |
 |--- | --- | --- |
-| <img src="../images/backhand.jpg" alt="Backhand" height="120"> | <img src="../images/forehand.jpg" alt="Forehand" height="120"> | <img src="../images/serve.jpg" alt="Serve" height="120"> |
+| <img src="../images/backhand.jpg" alt="Backhand" height="180"> | <img src="../images/forehand.jpg" alt="Forehand" height="180"> | <img src="../images/serve.jpg" alt="Serve" height="180"> |
 
 </div>
 
