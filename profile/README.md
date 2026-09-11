@@ -10,11 +10,11 @@
 - **核心成员**：徐恺阳、张亚洲、张亚洲、沈欣、李金珩、邵开阳、周自豪、汪耀东、夏贤贤、黄恺奕 、朱科祺、刘佳丽
 
 <div align="center">
-<img src="../images/sjtu.png" style="height:80px;" />
+<img src="../images/sjtu.png" style="height:90px;" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="../images/sii.png" style="height:80px;" />
+<img src="../images/sii.png" style="height:90px;" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="../images/RL2.png" style="height:80px;" />
+<img src="../images/RL2.png" style="height:90px;" />
 </div>
 
 ## 仓库地图
