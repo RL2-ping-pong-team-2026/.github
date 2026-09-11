@@ -26,7 +26,7 @@
 | 仓库 | 说明 |
 |---|---|
 | `unitree_tennis_lab` | Unitree G1 回球策略的训练 |
-| `unitree_rl_lab` | Unitree G1 和 Agibot A3 行走策略的训练 |
+| `unitree_agibot_rl_lab` | Unitree G1 和 Agibot A3 行走策略的训练 |
 | `unitree_tennis_lab_smash` | SMASH 论文的复现 |
 | `unitree_tennis_serve_lab` | Unitree G1 感知发球策略的训练 |
 | `table_version_lab` | Unitree G1 和 Agibot A3 回球策略的验证 |
